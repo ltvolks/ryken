@@ -1,0 +1,186 @@
+#b_contact,
+#b_contact a:link, #b_contact a:visited,
+#b_contact.active,
+#b_home,
+#b_home a:link, #b_home a:visited,
+#b_home.active,
+#b_location,
+#b_location a:link, #b_location a:visited,
+#b_location.active,
+#b_new_patients,
+#b_new_patients a:link, #b_new_patients a:visited,
+#b_new_patients.active,
+#b_services,
+#b_services a:link, #b_services a:visited,
+#b_services.active,
+#b_staff,
+#b_staff a:link, #b_staff a:visited,
+#b_staff.active,
+#calendar ul li a:link, #calendar ul li a:visited,
+#copyright,
+.icon_pdf_small,
+h3.big_form a:hover, h3.big_form a:active, h3.big_form a:focus,
+h3.big_form a:link, h3.big_form a:visited {
+  background-image: url(../images/sprites_nav.png);
+}
+
+#b_contact {
+  background-position: -136px -107px;
+  display: inline-block;
+  width: 94px;
+  height: 37px;
+}
+
+#b_contact a:link, #b_contact a:visited {
+  background-position: -7px -319px;
+  display: inline-block;
+  width: 84px;
+  height: 27px;
+}
+
+#b_contact.active {
+  background-position: -136px -147px;
+  display: inline-block;
+  width: 94px;
+  height: 65px;
+}
+
+#b_home {
+  background-position: -1px 0px;
+  display: inline-block;
+  width: 70px;
+  height: 37px;
+}
+
+#b_home a:link, #b_home a:visited {
+  background-position: -105px -218px;
+  display: inline-block;
+  width: 60px;
+  height: 27px;
+}
+
+#b_home.active {
+  background-position: 0px -39px;
+  display: inline-block;
+  width: 70px;
+  height: 65px;
+}
+
+#b_location {
+  background-position: -141px 0px;
+  display: inline-block;
+  width: 99px;
+  height: 37px;
+}
+
+#b_location a:link, #b_location a:visited {
+  background-position: -105px -317px;
+  display: inline-block;
+  width: 89px;
+  height: 27px;
+}
+
+#b_location.active {
+  background-position: -141px -40px;
+  display: inline-block;
+  width: 99px;
+  height: 65px;
+}
+
+#b_new_patients {
+  background-position: 0px -107px;
+  display: inline-block;
+  width: 127px;
+  height: 37px;
+}
+
+#b_new_patients a:link, #b_new_patients a:visited {
+  background-position: -104px -251px;
+  display: inline-block;
+  width: 117px;
+  height: 27px;
+}
+
+#b_new_patients.active {
+  background-position: 0px -146px;
+  display: inline-block;
+  width: 127px;
+  height: 65px;
+}
+
+#b_services {
+  background-position: 0px -214px;
+  display: inline-block;
+  width: 90px;
+  height: 37px;
+}
+
+#b_services a:link, #b_services a:visited {
+  background-position: -105px -284px;
+  display: inline-block;
+  width: 80px;
+  height: 27px;
+}
+
+#b_services.active {
+  background-position: 0px -251px;
+  display: inline-block;
+  width: 90px;
+  height: 65px;
+}
+
+#b_staff {
+  background-position: -73px 0px;
+  display: inline-block;
+  width: 65px;
+  height: 37px;
+}
+
+#b_staff a:link, #b_staff a:visited {
+  background-position: -175px -218px;
+  display: inline-block;
+  width: 55px;
+  height: 27px;
+}
+
+#b_staff.active {
+  background-position: -73px -39px;
+  display: inline-block;
+  width: 65px;
+  height: 65px;
+}
+
+#calendar ul li a:link, #calendar ul li a:visited {
+  background-position: 0px -477px;
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+}
+
+#copyright {
+  background-position: 0px -352px;
+  display: inline-block;
+  width: 66px;
+  height: 73px;
+}
+
+.icon_pdf_small {
+  background-position: 0px -496px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+
+h3.big_form a:hover, h3.big_form a:active, h3.big_form a:focus {
+  background-position: 0px -431px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+h3.big_form a:link, h3.big_form a:visited {
+  background-position: 0px -431px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}

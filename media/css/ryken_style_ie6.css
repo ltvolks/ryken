@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.img_left {
+	display:inline;
+}
+.img_right {
+	display:inline;
+}
+
+#header h1 {
+	display:inline;
+}
+#header h1 a {
+	display:block;
+	width:346px;
+	height:99px;
+	background:url(../images/ryken_logo_ie6.png) bottom right no-repeat;
+}
+#header h1 a img {
+	display:none;
+}
+#header ul {
+	display:inline;
+}
+#header ul li {
+	display:inline;
+}
+#b_home {
+	background:url(../images/b_home_on_ie6.png) top left no-repeat;
+}
+#b_home.active {
+	background:url(../images/b_home_active_ie6.png) top left no-repeat;	
+}
+#b_new_patients {
+	background:url(../images/b_new_patients_on_ie6.png) top left no-repeat;
+}
+#b_new_patients.active {
+	background:url(../images/b_new_patients_active_ie6.png) top left no-repeat;	
+}
+#b_services {
+	background:url(../images/b_services_on_ie6.png) top left no-repeat;
+}
+#b_services.active {
+	background:url(../images/b_services_active_ie6.png) top left no-repeat;	
+}
+#b_staff {
+	background:url(../images/b_staff_on_ie6.png) top left no-repeat;
+}
+#b_staff.active {
+	background:url(../images/b_staff_active_ie6.png) top left no-repeat;	
+}
+#b_location {
+	background:url(../images/b_location_on_ie6.png) top left no-repeat;
+}
+#b_location.active {
+	background:url(../images/b_location_active_ie6.png) top left no-repeat;	
+}
+#b_contact {
+	background:url(../images/b_contact_on_ie6.png) top left no-repeat;
+}
+#b_contact.active {
+	background:url(../images/b_contact_active_ie6.png) top left no-repeat;	
+}
+
+#content_wrapper {
+	background:url(../images/content_bg_ie6.png) top center repeat-y;
+}
+#content_narrow {
+	display:inline;
+}
+#new_patient_options {
+	display:inline;
+}
+
+ul#np_nav li {
+	margin:0 0 0 10px;
+	display:inline
+}
+ul#np_nav li a {
+	padding:5px 10px;
+}
+ul#np_nav li#b_forms {
+	background-image:none;
+}
+ul#np_nav li#b_forms a:hover, ul#np_nav li#b_forms a:active, ul#np_nav li#b_forms a:focus {
+	background:#928a70;
+}
+ul#np_nav li#b_expectations {
+	background-image:none;
+}
+ul#np_nav li#b_expectations a:hover, ul#np_nav li#b_expectations a:active, ul#np_nav li#b_expectations a:focus {
+	background:#928a70;
+}
+ul#np_nav li#b_insurance {
+	background-image:none;
+}
+ul#np_nav li#b_insurance a:hover, ul#np_nav li#b_insurance a:active, ul#np_nav li#b_insurance a:focus {
+	background:#928a70;
+}
+ul#np_nav li#b_payment {
+	background-image:none;
+}
+ul#np_nav li#b_payment a:hover, ul#np_nav li#b_payment a:active, ul#np_nav li#b_payment a:focus {
+	background:#928a70;
+}
+ul#np_nav li#b_privacy {
+	background-image:none;
+}
+ul#np_nav li#b_privacy a:hover, ul#np_nav li#b_privacy a:active, ul#np_nav li#b_privacy a:focus {
+	background:#928a70;
+}
+
+.half_column {
+	display:inline;
+}
+
+#content_sidebar {
+	display:inline;
+}
+#doctors_notes ul li {
+	display:inline;
+}
+
+#footer_wrapper {
+	background:url(../images/footer_bg_ie6.png) top center no-repeat;
+}
+#digits {
+	display:inline;
+}
+#digits p span.label {
+	display:inline;
+}
+#map {
+	display:inline;
+}
+#map a:link, #map a:visited {
+	background:url(../images/map_icon_ie6.png) 10px 10px no-repeat;
+}
+#map a:hover, #map a:active, #map a:focus {
+	background:url(../images/map_icon_ie6.png) 10px 10px no-repeat #346081;
+}
+#copyright {
+	display:inline;
+	background:url(../images/copyright_bg_ie6.png) top left no-repeat;
+}

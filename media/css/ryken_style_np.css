@@ -1,0 +1,162 @@
+#b_expectations,
+#b_expectations a:link, #b_expectations a:visited,
+#b_forms,
+#b_forms a:link, #b_forms a:visited,
+#b_insurance,
+#b_insurance a:link, #b_insurance a:visited,
+#b_payment,
+#b_payment a:link, #b_payment a:visited,
+#b_privacy,
+#b_privacy a:link, #b_privacy a:visited,
+#latest_newsletters ul li a:link, #latest_newsletters ul li a:visited,
+ul#np_nav li#b_expectations,
+ul#np_nav li#b_expectations a:hover, ul#np_nav li#b_expectations a:active, ul#np_nav li#b_expectations a:focus,
+ul#np_nav li#b_forms,
+ul#np_nav li#b_forms a:hover, ul#np_nav li#b_forms a:active, ul#np_nav li#b_forms a:focus,
+ul#np_nav li#b_insurance,
+ul#np_nav li#b_insurance a:hover, ul#np_nav li#b_insurance a:active, ul#np_nav li#b_insurance a:focus,
+ul#np_nav li#b_payment,
+ul#np_nav li#b_payment a:hover, ul#np_nav li#b_payment a:active, ul#np_nav li#b_payment a:focus,
+ul.form_list li a:link, ul.form_list li a:visited {
+  background-image: url(../images/np_sprites.png);
+}
+
+#b_expectations {
+  background-position: 0px -90px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_expectations a:link, #b_expectations a:visited {
+  background-position: 0px -135px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_forms {
+  background-position: 0px 0px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_forms a:link, #b_forms a:visited {
+  background-position: 0px -45px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_insurance {
+  background-position: 0px -180px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_insurance a:link, #b_insurance a:visited {
+  background-position: -238px 0px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_payment {
+  background-position: -238px -45px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_payment a:link, #b_payment a:visited {
+  background-position: -238px -90px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_privacy {
+  background-position: -238px -135px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#b_privacy a:link, #b_privacy a:visited {
+  background-position: -238px -180px;
+  display: inline-block;
+  width: 236px;
+  height: 43px;
+}
+
+#latest_newsletters ul li a:link, #latest_newsletters ul li a:visited {
+  background-position: 0px -225px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+
+ul#np_nav li#b_expectations {
+  background-position: -35px -225px;
+  display: inline-block;
+  width: 13px;
+  height: 14px;
+}
+
+ul#np_nav li#b_expectations a:hover, ul#np_nav li#b_expectations a:active, ul#np_nav li#b_expectations a:focus {
+  background-position: -35px -225px;
+  display: inline-block;
+  width: 13px;
+  height: 14px;
+}
+
+ul#np_nav li#b_forms {
+  background-position: -18px -225px;
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+}
+
+ul#np_nav li#b_forms a:hover, ul#np_nav li#b_forms a:active, ul#np_nav li#b_forms a:focus {
+  background-position: -18px -225px;
+  display: inline-block;
+  width: 15px;
+  height: 14px;
+}
+
+ul#np_nav li#b_insurance {
+  background-position: -63px -225px;
+  display: inline-block;
+  width: 12px;
+  height: 15px;
+}
+
+ul#np_nav li#b_insurance a:hover, ul#np_nav li#b_insurance a:active, ul#np_nav li#b_insurance a:focus {
+  background-position: -63px -225px;
+  display: inline-block;
+  width: 12px;
+  height: 15px;
+}
+
+ul#np_nav li#b_payment {
+  background-position: -50px -225px;
+  display: inline-block;
+  width: 9px;
+  height: 15px;
+}
+
+ul#np_nav li#b_payment a:hover, ul#np_nav li#b_payment a:active, ul#np_nav li#b_payment a:focus {
+  background-position: -50px -225px;
+  display: inline-block;
+  width: 9px;
+  height: 15px;
+}
+
+ul.form_list li a:link, ul.form_list li a:visited {
+  background-position: 0px -225px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
